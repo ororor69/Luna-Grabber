@@ -91,11 +91,8 @@ Make sure you have Python 3.11+ installed and it is added to your path.
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The setup.bat File:
+### 3. Open The start.bat File
 
-```
-You dont need to manually install any modules. Just opening setup.bat will install them for you. If successfull the setup.bat will then open up the gui.
-```
 ### 4. Create A Webhook:
 
 ```
@@ -109,9 +106,7 @@ Now once you've done that you can tick the options that you want enabled and any
 to the documentation where each option is explained.
 ```
 ### 6. Build The File
-```
-To finally create the file you must enter a filename and press build. Once fully built the build button will say 'Built File'.
-```
+
 ### 7. What Now?
 
 ```
