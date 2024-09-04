@@ -6,7 +6,7 @@
   <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
   <img  src="https://img.shields.io/github/downloads/Smug246/Luna-Grabber/total?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1"> 
   <img  src="https://img.shields.io/github/forks/Smug246/Luna-Grabber?logoColor=6d00c1">
   <br>
   <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Grabber?color=6d00c1">
