@@ -49,7 +49,7 @@
 
 - System info
     - User
-    - OS
+    - OS 
     - System
     - Network IP
     - Country
