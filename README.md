@@ -146,7 +146,7 @@ If you find an error that you cant fix and need help with you can submit an [iss
 ## License
 Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
 
-
+ 
 ## Star Graph
 
 ![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
