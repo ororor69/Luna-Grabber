@@ -98,7 +98,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 If you don't know how to make a webhook you can follow this guide: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 Once created, paste the webhook into the webhook prompt.
-```
+``` 
 ### 5. Configurable Options:
 
 ```
