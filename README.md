@@ -55,7 +55,7 @@
     - Country
     - Wifi
     - Mac
-    - Hwid
+    - Hwid 
     - PC Specs
     - Screenshot
     - Proxies
