@@ -128,7 +128,7 @@ The file you built will now appear in the current folder with the name you set.
 </div>
 
 ## Contributing
-Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
+Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**. 
 
 If you have a suggestion that would make this project better, you can simply open a [feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A).
 Don't forget to give the project a star! Thanks again!
